@@ -8,7 +8,7 @@ Aplikasi **Flutter** untuk memantau performa Pembangkit Listrik Tenaga Surya (PL
 - **Real-time monitoring** — stream data langsung dari Firebase
 - **Data History** — filter harian, ringkasan kWh, grafik mingguan, ekspor CSV/PDF
 - **Analytics** — analisis data & forecasting
-- **Notifikasi** — alert threshold (lokal, Telegram, webhook)
+- **Notifikasi** — alert threshold (lokal, Telegram)
 - **Multi-device** — pilih perangkat PLTS aktif
 - **Firmware Arduino** — ESP8266 kirim data ke Firebase
 
@@ -17,9 +17,9 @@ Aplikasi **Flutter** untuk memantau performa Pembangkit Listrik Tenaga Surya (PL
 | Layer | Teknologi |
 |-------|-----------|
 | Mobile | Flutter, Provider |
-| Backend | Firebase Auth, Realtime Database, Cloud Messaging |
+| Backend | Firebase Auth, Realtime Database |
 | Visualisasi | fl_chart |
-| Hardware | ESP8266, PZEM-017 (Modbus RS485), MAX485 |
+| Hardware | Penel Surya,ESP8266, PZEM-017 (Modbus RS485), MAX485 |
 | Export | CSV, PDF (share_plus) |
 
 ## Arsitektur
