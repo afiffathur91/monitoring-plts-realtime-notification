@@ -26,8 +26,8 @@ struct Settings {
 } settings;
 
 // ============ Firebase ============
-#define FIREBASE_HOST "mobile-plts-afif-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define FIREBASE_AUTH "rEBGZiO682aPbrKfZy6JT8kl20NgrWgI0724ZY5w"
+#define FIREBASE_HOST "YOUR_FIREBASE_DATABASE_HOST"
+#define FIREBASE_AUTH "YOUR_FIREBASE_DATABASE_SECRET"
 
 FirebaseData fbdo;
 FirebaseAuth auth;
