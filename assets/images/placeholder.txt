@@ -1,0 +1,11 @@
+This is a placeholder file. In a real application, you would place images like:
+- Logo
+- Background images
+- Icon images
+- Etc.
+
+For this solar monitoring app, you might want to add:
+- Solar panel images
+- Battery icons
+- Chart icons
+- User avatars 

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "664783266369",
+    "project_id": "mobile-plts-afif",
+    "storage_bucket": "mobile-plts-afif.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664783266369:android:1add15019717a8ce71dcc0",
+        "android_client_info": {
+          "package_name": "com.example.mobile_plts_afif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3cKNjzzZNRmzNzaz2akOCiWBeo8TEi8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664783266369:android:bdbbe842479ab6f071dcc0",
+        "android_client_info": {
+          "package_name": "com.example.plts_mobile_afif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3cKNjzzZNRmzNzaz2akOCiWBeo8TEi8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
