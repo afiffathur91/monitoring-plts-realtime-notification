@@ -28,10 +28,6 @@ Aplikasi **Flutter** untuk memantau performa Pembangkit Listrik Tenaga Surya (PL
 PZEM-017 → ESP8266 → Firebase Realtime DB (/devices/{id}/data/{ts}) → Flutter App
 ```
 
-## Screenshots
-
-> Tambahkan screenshot ke folder `assets/images/` dan lampirkan di sini untuk portofolio.
-
 ## Menjalankan project
 
 ### Prasyarat
